@@ -24,3 +24,11 @@ Bootstrap Yapısı, Dinamik Web Projeleri Oluşturma, Layout Kontrolü, Admin ve
 :arrow_right: İletişim Sayfası Mesajları Gönder Butonu : 
 
 ![image](https://user-images.githubusercontent.com/98838876/164890597-d55b9611-f7e2-4a77-975b-229d5feb4cc4.png)
+
+:arrow_right: Admin Page Sayfası W3School'daki kaynak kodlarından yararlanarak tasarlandı.
+
+![image](https://user-images.githubusercontent.com/98838876/164914711-7dc8a4b7-bb71-4724-b7dc-5a4e2464ca8e.png)
+
+:arrow_right: Admin Master'dan Türetilen Blog içeriklerinin düzenlenen Sayfa 
+
+![image](https://user-images.githubusercontent.com/98838876/164914688-fc21f557-36de-4f93-bad0-da5956cac328.png)
