@@ -17,7 +17,7 @@ Bootstrap Yapısı, Dinamik Web Projeleri Oluşturma, Layout Kontrolü, Admin ve
 
 ![image](https://user-images.githubusercontent.com/98838876/164650328-8df234ee-28bb-4388-9701-b950117a640f.png)
 
-:arrow_right: Yorum Yapanları Yayınlamak Kullanılan Kod Bölümü.
+:arrow_right: Yorum Yapanları Yayınlamak İçin Kullanılan Kod Bölümü.
 ![image](https://user-images.githubusercontent.com/98838876/164889338-4151329d-6d94-4acd-a937-11614429ffc2.png)
 
 
