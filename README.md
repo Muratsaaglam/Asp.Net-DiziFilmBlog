@@ -36,3 +36,7 @@ Bootstrap Yapısı, Dinamik Web Projeleri Oluşturma, Layout Kontrolü, Admin ve
 :arrow_right: Yeni Blog Kayıt Etme Bölümü
 ![image](https://user-images.githubusercontent.com/98838876/164940186-0641de77-f12f-454b-8c64-fd60db11ddf5.png)
 
+:arrow_right: Blog Silme İşlemleri
+![image](https://user-images.githubusercontent.com/98838876/164942626-98916e14-ac8f-40ca-9883-c4bc5bf1e043.png)
+
+
