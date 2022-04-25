@@ -39,4 +39,7 @@ Bootstrap Yapısı, Dinamik Web Projeleri Oluşturma, Layout Kontrolü, Admin ve
 :arrow_right: Blog Silme İşlemleri
 ![image](https://user-images.githubusercontent.com/98838876/164942626-98916e14-ac8f-40ca-9883-c4bc5bf1e043.png)
 
+:arrow_right:  Blog Güncelleme İşlemleri
+![image](https://user-images.githubusercontent.com/98838876/165045001-5d994a3f-c950-42a6-a044-0fad37f903be.png)
+
 
