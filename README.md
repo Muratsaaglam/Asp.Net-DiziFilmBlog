@@ -52,4 +52,8 @@ Bootstrap Yapısı, Dinamik Web Projeleri Oluşturma, Layout Kontrolü, Admin ve
 :arrow_right: Yorumları Güncelleme
 ![image](https://user-images.githubusercontent.com/98838876/165094680-a01fb06c-e454-4bd6-9d49-c2ee657339a5.png)
 
+:arrow_right: Yorum İstatistik Sayfası
+![image](https://user-images.githubusercontent.com/98838876/165106139-4f8319fb-7b87-4517-8c03-59b8e4ec4fdb.png)
+
+
 
