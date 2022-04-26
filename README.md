@@ -62,3 +62,7 @@ Bootstrap Yapısı, Dinamik Web Projeleri Oluşturma, Layout Kontrolü, Admin ve
 :arrow_right: En Son Paylaşılan 5 Blog İçeriğini Listeleme
 ![image](https://user-images.githubusercontent.com/98838876/165236203-3756a1ec-24b9-49ce-9c2f-67766c790118.png)
 
+:arrow_right: En son Paylaşılan 5 Yorumu Listeleme
+
+![image](https://user-images.githubusercontent.com/98838876/165238565-78489ec6-f78a-4bf0-9c4d-3df813b87253.png)
+
