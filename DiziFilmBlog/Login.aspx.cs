@@ -16,6 +16,7 @@ namespace DiziFilmBlog
 
         }
 
+        //murata 1 - 2 bir de benımkı
         protected void Button1_Click(object sender, EventArgs e)
         {
             //Admin ve Şifre Sorgulama
