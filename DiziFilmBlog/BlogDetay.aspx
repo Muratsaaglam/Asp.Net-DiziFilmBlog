@@ -50,7 +50,7 @@
                             </ItemTemplate>
                         </asp:Repeater>
                     </div>
-                    <%--Yorumların Yayınlandığı Kod Bölümü--%>
+                    <%--Yorumların Yayınlandığı Kod Bölümü --%>
                     <asp:Repeater ID="Repeater2" runat="server">
                         <ItemTemplate>
                             <ul class="comment-list">
@@ -60,6 +60,7 @@
                                         <p><%# Eval("KULLANICIAD") %> : <%# Eval("YORUMICERIK") %></p>
                                     </div>
                                     <div class="clearfix"></div>
+                                    
                                 </li>
                             </ul>
                         </ItemTemplate>
