@@ -1,14 +1,8 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanici.master.cs" Inherits="DiziFilmBlog.Kullanici" %>
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Personal Blog a Blogging Category Flat Bootstarp  Responsive Website Template | Home :: w3layouts</title>
+	<title>Bugün Ne İzlesem?</title>
 	<link href="web/css/bootstrap.css" rel='stylesheet' type='text/css' />
 	<link href="web/css/style.css" rel='stylesheet' type='text/css' />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -55,10 +49,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				 </div>
 				  <span class="menu"> </span> 
 				   <ul>
-						<li class="active"><a href="index.html">HOME</a></li>						
-						<li><a href="about.html">ABOUT</a></li>	
-						<li><a href="contact.html">CONTACT</a></li>						
-						<div class="clearfix"> </div>
+						<li class="active"><a href="Default.Aspx">Bloglar</a></li>						
+						<li><a href="Hakkimda.Aspx">Hakkımızda</a></li>	
+						<li><a href="iletisim.Aspx">İletişim</a></li>						
 				 </ul>
 			 </div>
 			 <div class="clearfix"></div>
@@ -82,8 +75,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!---->
 <div class="footer">
 	 <div class="container">
-	 <p>Copyrights © 2015 Blog All rights reserved | Template by <a href="http://w3layouts.com/">W3layouts</a></p>
+	 <p>Copyrights © 2022 | Murat SAĞLAM</a></p>
 	 </div>
 </div>
 
-	
+</body>	
+	</html>

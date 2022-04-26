@@ -8,15 +8,16 @@ using DiziFilmBlog.Entity;
 
 namespace DiziFilmBlog
 {
-    public partial class Default : System.Web.UI.Page
+    public partial class KategoriDetay : System.Web.UI.Page
     {
         BlogDiziEntities db = new BlogDiziEntities();
 
         protected void Page_Load(object sender, EventArgs e)
         {
             //BLOG BAŞLIKLARI
-            var bloglar = db.TBLBLOG.ToList();
-            Repeater1.DataSource= bloglar;
+            int id = Convert.ToInt32(Request.QueryString["KATEGORIID"]);
+            var bloglar = db.TBLBLOG.Where(x => x.BLOGKATEGORI == id).ToList();
+            Repeater1.DataSource = bloglar;
             Repeater1.DataBind();
 
             //KATAGORİ BAŞLIKLARI
@@ -26,14 +27,9 @@ namespace DiziFilmBlog
 
 
             //EN SON PAYLAŞILANLAR
-            var bloglar3 = db.TBLBLOG.Take(5).ToList();
+            var bloglar3 = db.TBLBLOG.ToList();
             Repeater3.DataSource = bloglar3;
             Repeater3.DataBind();
-
-            //EN SON PAYLAŞILAN YORUMLAR
-            var bloglar4 = db.TBLYORUM.Take(3).ToList();
-            Repeater4.DataSource = bloglar4;
-            Repeater4.DataBind();
 
         }
     }
