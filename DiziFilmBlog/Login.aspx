@@ -29,7 +29,7 @@
                         <asp:TextBox ID="TextBox1" runat="server" placeholder="Kullanıcı Adı"></asp:TextBox>
                     </div>
                     <div class="form-left-to-w3l ">
-                        <asp:TextBox ID="TextBox2" runat="server" placeholder="Şifreniz"></asp:TextBox>
+                        <asp:TextBox ID="TextBox2" runat="server" placeholder="Şifreniz" TextMode="Password"></asp:TextBox>
                         <div class="clear"></div>
                     </div>
                 </div>

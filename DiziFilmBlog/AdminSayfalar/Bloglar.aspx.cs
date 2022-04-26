@@ -13,6 +13,16 @@ namespace DiziFilmBlog.AdminSayfalar
         BlogDiziEntities db = new BlogDiziEntities();
         protected void Page_Load(object sender, EventArgs e)
         {
+
+            if (Session["KULLANICI"]==null)
+            {
+                Response.Redirect("~/Login.Aspx");
+            }
+            else
+            {
+                Response.Write(Session["KULLANICI"].ToString());
+
+            }
             Repeater1.DataSource=db.TBLBLOG.ToList();
             Repeater1.DataBind();
         }

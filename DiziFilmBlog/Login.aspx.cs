@@ -16,7 +16,6 @@ namespace DiziFilmBlog
 
         }
 
-        //murata 1 - 2 bir de benımkı
         protected void Button1_Click(object sender, EventArgs e)
         {
             //Admin ve Şifre Sorgulama
@@ -25,6 +24,8 @@ namespace DiziFilmBlog
                         x.SIFRE == TextBox2.Text select x;
             if (sorgu.Any())
             {
+
+                Session.Add("KULLANICI", TextBox1.Text);
                 Response.Redirect("/AdminSayfalar/Bloglar.Aspx");
 
             }
