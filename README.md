@@ -1,4 +1,4 @@
-# Asp.Net-DiziFilmBlog-Web-Sitesi
+# Asp.Net-DiziFilmBlog
 
  
 :arrow_right: Asp.Net Core 5.0 ile Geliştirilen Web Sitesi.
